@@ -1,0 +1,2 @@
+# Seminarmenu
+Digitalisierung Seminar Menus
